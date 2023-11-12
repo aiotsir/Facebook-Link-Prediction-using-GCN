@@ -12,7 +12,7 @@ Below is the summary of what my Juypter Notebook code includes :
 **Data Loading:**
 
 The project begins by loading graph data from an edgelist file, creating an adjacency matrix to represent the connections between nodes.
-## Dataset - https://snap.stanford.edu/data/    Stanford Large Network Dataset Collection
+** Dataset - https://snap.stanford.edu/data/    Stanford Large Network Dataset Collection
 
 **Model Architecture:**
 
